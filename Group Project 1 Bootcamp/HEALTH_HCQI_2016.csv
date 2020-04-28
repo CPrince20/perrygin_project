@@ -1,0 +1,27 @@
+﻿Country,Periods,IND,Indicator,Age Group,VAL,Value,Value
+Canada,2016,SUICMENT,In-patient suicide among patients diagnosed with a mental disorder,15 years old and over,AS_STD_RATE_CPAT,Age-sex standardised rate per 100 patients,0.05
+Canada,2016,FORBPROC,Foreign body left in during procedure,15 years old and over,CRUDE_DIS_ALL,Crude rate per 100 000 hospital discharges (All admission-related method),10.3
+Canada,2016,POSTWODE,Post-operative wound dehiscence,15 years old and over,CRUDE_DIS_SURG,Crude rate per 100 000 hospital discharges (Surgical admission-related method),128.7
+Canada,2016,POSTWODE,Post-operative wound dehiscence,15 years old and over,CRUDE_DIS_ALL,Crude rate per 100 000 hospital discharges (All admission-related method),185.6
+Canada,2016,POSTPESP,Post-operative pulmonary embolism after hip or knee replacement ,15 years old and over,CRUDE_DIS_ALL,Crude rate per 100 000 hospital discharges (All admission-related method),568.3
+Canada,2016,POSTDVSP,Post-operative deep vein thrombosis after hip or knee replacement,15 years old and over,CRUDE_DIS_ALL,Crude rate per 100 000 hospital discharges (All admission-related method),283.1
+Canada,2016,POSTSESP,Post-operative sepsis after abdominal surgery,15 years old and over,CRUDE_DIS_SURG,Crude rate per 100 000 hospital discharges (Surgical admission-related method),1014.8
+Canada,2016,POSTSESP,Post-operative sepsis after abdominal surgery,15 years old and over,CRUDE_DIS_ALL,Crude rate per 100 000 hospital discharges (All admission-related method),1232.5
+United States,2016,POSTWODE,Post-operative wound dehiscence,15 years old and over,CRUDE_DIS_SURG,Crude rate per 100 000 hospital discharges (Surgical admission-related method),68.3
+United States,2016,POSTPESP,Post-operative pulmonary embolism after hip or knee replacement ,15 years old and over,CRUDE_DIS_SURG,Crude rate per 100 000 hospital discharges (Surgical admission-related method),446.2
+United States,2016,POSTDVSP,Post-operative deep vein thrombosis after hip or knee replacement,15 years old and over,CRUDE_DIS_SURG,Crude rate per 100 000 hospital discharges (Surgical admission-related method),421.1
+United States,2016,POSTSESP,Post-operative sepsis after abdominal surgery,15 years old and over,CRUDE_DIS_SURG,Crude rate per 100 000 hospital discharges (Surgical admission-related method),1048.6
+Canada,2016,ADMRASTH,Asthma hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,14.2
+Canada,2016,ADMRCOPD,Chronic obstructive pulmonary disease hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,235.4
+Canada,2016,ADMRCHFL,Congestive heart failure hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,164.3
+Canada,2016,ADMRDBUC,Diabetes hospital admission ,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,92.9
+Canada,2016,ADMRDBLE,Admission based diabetes lower extremity amputation ,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,6.8
+Canada,2016,ADMRDBLE,Admission based diabetes lower extremity amputation ,15 years old and over,AS_STD_RATE_MDIAB,Age-sex standardised rate per 100 000 people with diabetes,50.9
+Canada,2016,ADMRHYPT,Hypertension hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,14.1
+Canada,2016,PATRDBLE,Patient-based diabetes lower extremity amputation,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,6.6
+Canada,2016,PATRDBLE,Patient-based diabetes lower extremity amputation,15 years old and over,AS_STD_RATE_MDIAB,Age-sex standardised rate per 100 000 people with diabetes,49.8
+United States,2016,ADMRASTH,Asthma hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,39.2
+United States,2016,ADMRCOPD,Chronic obstructive pulmonary disease hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,228.9
+United States,2016,ADMRCHFL,Congestive heart failure hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,371.4
+United States,2016,ADMRDBUC,Diabetes hospital admission ,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,169.7
+United States,2016,ADMRHYPT,Hypertension hospital admission,15 years old and over,AS_STD_RATE_MPOP,Age-sex standardised rate per 100 000 population,46
